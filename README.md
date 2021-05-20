@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pcdata1020
-- 👀 I am interested in learning big data and cloud technologies
+- 👀 I am interested in all things related to learning big data and cloud technologies
 - 🌱 I’m currently learning aws 
 - 💞️ I’m looking to collaborate on *
 - 📫 How to reach me ...
